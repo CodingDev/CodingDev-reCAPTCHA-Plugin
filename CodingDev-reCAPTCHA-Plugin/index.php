@@ -4,7 +4,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: CodingDev reCAPTCHA Plugin
- * Plugin URI:  http://codingdev.de/159/codingdev-recaptcha-plugin/
+ * Plugin URI:  http://codingdev.de/?s=recaptcha+plugin+wordpress
  * Description: This Plugin add a reCAPTCHA input on the Register form.
  * Version:     1.0
  * Author:      Ren&eacute; Preu&szlig;
