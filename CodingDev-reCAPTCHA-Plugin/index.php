@@ -1,14 +1,14 @@
 <?php
 /**
- * @package     CodingDev reCAPTCHA Plugin
+ * @package     Rene.pw - reCAPTCHA Plugin
  *
  * @wordpress-plugin
- * Plugin Name: CodingDev reCAPTCHA Plugin
- * Plugin URI:  http://codingdev.de/?s=recaptcha+plugin+wordpress
- * Description: This Plugin add a reCAPTCHA input on the Register form.
+ * Plugin Name: Rene.pw - reCAPTCHA Plugin
+ * Plugin URI:  http://rene.pw/
+ * Description: This Plugin will add an reCAPTCHA input field on the Register form.
  * Version:     1.0
  * Author:      Ren&eacute; Preu&szlig;
- * Author URI:  http://codingdev.de/author/rene-preuss/
+ * Author URI:  http://rene.pw/
  */
 
 if ( ! defined( 'WPINC' ) ) {
